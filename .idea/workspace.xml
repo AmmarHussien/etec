@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9670605e-5ee6-4657-8fa4-46daa8ae7a3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/addReviewer/AddReviewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/homePageFront.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/base/MainSetup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/front/ReviewerRegistration/Local_reviewer_Registration.java" afterDir="false" />
+    <list default="true" id="9670605e-5ee6-4657-8fa4-46daa8ae7a3d" name="Changes" comment="add reviewer">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/example/addReviewer/AddReviewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/addReviewer/AddReviewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/front/ReviewerRegistration/Local_reviewer_Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/front/ReviewerRegistration/Local_reviewer_Registration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +40,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/ammarhussien/Desktop/java/etec/src/main/java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ammarhussien/Desktop/java/etec/src/main/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="base" />
@@ -70,7 +64,7 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Local_reviewer_Registration.testSuccessfulLogin">
+  <component name="RunManager" selected="TestNG.Local_reviewer_Registration">
     <configuration name="Local_reviewer_Registration" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="etec" />
       <extension name="coverage">
@@ -126,8 +120,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Local_reviewer_Registration.testSuccessfulLogin" />
         <item itemvalue="TestNG.Local_reviewer_Registration" />
+        <item itemvalue="TestNG.Local_reviewer_Registration.testSuccessfulLogin" />
         <item itemvalue="TestNG.reviewer_Registration.testSuccessfulLogin" />
       </list>
     </recent_temporary>
@@ -140,11 +134,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674034723672</updated>
-      <workItem from="1674034724977" duration="9710000" />
+      <workItem from="1674034724977" duration="10535000" />
+      <workItem from="1674128137417" duration="8159000" />
+      <workItem from="1674372157061" duration="8301000" />
     </task>
+    <task id="LOCAL-00001" summary="add reviewer">
+      <created>1674058210708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674058210708</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add reviewer" />
+    <option name="LAST_COMMIT_MESSAGE" value="add reviewer" />
   </component>
 </project>
